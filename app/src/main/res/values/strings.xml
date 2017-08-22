@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">XpressMusicUI</string>
+    <string name="title_menu">XpressMusic</string>
+    <string name="title_artist_artic_monkeys">Artic Monkeys</string>
+    <string name="subtitle_album_one">Whatever pe...</string>
+    <string name="title_song_what">A Certain Romance</string>
+    <string name="title_song_ibet">I Bet You Look Good On The Dancefloor</string>
+    <string name="subtitle_album_two">Humbug</string>
+    <string name="subtitle_album_three">AM</string>
+    <string name="subtitle_album_four">I bet you look...</string>
+    <string name="subtitle_songs">12 songs</string>
+    <string name="subtitle_songs_playlist">48 songs</string>
+    <string name="title_song_humbug">Cornerstone</string>
+    <string name="title_remix">Artic Remix</string>
+    <string name="subtitle_name_songs_playlist">My playlist</string>
+
+</resources>

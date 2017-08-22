@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_songs">
+        <item>I bet you look good on the dancefloor</item>
+        <item>CornerStone</item>
+        <item>R U Mine?</item>
+        <item>A Certain Romance</item>
+        <item>Before the Lights Come On</item>
+        <item>My Propeller</item>
+        <item>Fluorescent Adolescent</item>
+        <item>Dancing Shoes</item>
+    </string-array>
+</resources>
